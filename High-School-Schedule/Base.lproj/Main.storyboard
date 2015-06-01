@@ -49,7 +49,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="35" y="53" width="105" height="30"/>
+                                    <rect key="frame" x="16" y="53" width="105" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="aPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="T8g-eC-eYq"/>
@@ -61,7 +61,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="35" y="91" width="105" height="30"/>
+                                    <rect key="frame" x="16" y="91" width="105" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="dPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="Vky-wW-ibY"/>
@@ -73,7 +73,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="261" y="91" width="103" height="30"/>
+                                    <rect key="frame" x="241" y="91" width="103" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="fPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="QGA-Gc-cPJ"/>
@@ -85,7 +85,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="148" y="91" width="104" height="30"/>
+                                    <rect key="frame" x="129" y="91" width="104" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="ePeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="tpL-n3-Gqx"/>
@@ -97,7 +97,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="261" y="135" width="70" height="30"/>
+                                    <rect key="frame" x="146" y="135" width="70" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="sportButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="t8a-zC-eck"/>
@@ -109,7 +109,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="261" y="53" width="106" height="30"/>
+                                    <rect key="frame" x="243" y="53" width="106" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="cPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="M19-CA-OMU"/>
@@ -121,7 +121,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="36" y="135" width="104" height="30"/>
+                                    <rect key="frame" x="16" y="135" width="104" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="xPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="YQz-Ic-ENW"/>
@@ -133,7 +133,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="148" y="53" width="105" height="30"/>
+                                    <rect key="frame" x="129" y="53" width="105" height="30"/>
                                 </variation>
                                 <connections>
                                     <action selector="bPeriodButton:" destination="8rJ-Kc-sve" eventType="touchUpInside" id="vPu-HW-N6p"/>
@@ -144,7 +144,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="35" y="173" width="332" height="30"/>
+                                    <rect key="frame" x="34" y="173" width="332" height="30"/>
                                 </variation>
                             </textField>
                         </subviews>
