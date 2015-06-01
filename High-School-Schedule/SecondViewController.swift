@@ -1,10 +1,4 @@
-//
-//  SecondViewController.swift
-//  High-School-Schedule
-//
-//  Created by JAM2 on 5/30/15.
-//  Copyright (c) 2015 JAM2. All rights reserved.
-//
+
 
 import UIKit
 

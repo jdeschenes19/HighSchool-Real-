@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>9723A597-244A-4046-86AB-26A4664FB39E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>High-School-Schedule</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>188CB2CDE6BA60E2D81E34CCEA366A368EE0A3D2</key>
 		<string>https://github.com/jdeschenes19/HighSchool-Real-.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>High-School-Schedule.xcodeproj</string>
+	<string>High-School-Schedule.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>188CB2CDE6BA60E2D81E34CCEA366A368EE0A3D2</key>
